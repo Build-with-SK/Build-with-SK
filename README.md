@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Soundariyan Karunakaran — Finance × Quantitative Research × Engineering. London, United Kingdom. MSc International Corporate Finance, Distinction. Bloomberg Global Trading Challenge 2025, 122nd of 2,394 teams, top 5%." src="assets/header-light.svg">
+  <img alt="Soundariyan Karunakaran — Finance × Quantitative Research × Engineering. Guildford, United Kingdom. MSc International Corporate Finance, Distinction. Bloomberg Global Trading Challenge 2025, 122nd of 2,394 teams, top 5%." src="assets/header-light.svg">
 </picture>
 
 <p align="center">
