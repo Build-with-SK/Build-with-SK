@@ -96,10 +96,12 @@ by convention, and not by a config flag.
 
 **Scale** — every figure below is a count you can reproduce from the repository, not a claim.
 
-| | | | |
-|---|---|---|---|
-| **66,288** lines of Python | **19,030** lines of tests | **73** test modules | **185** HTTP endpoints |
-| **41** research modules | **17** strategy engines | **21,067** symbols indexed | **34** exchanges |
+| | |
+|---|---|
+| **66,288** lines of Python | **19,030** lines of tests |
+| **73** test modules | **185** HTTP endpoints |
+| **41** research modules | **17** strategy engines |
+| **21,067** symbols indexed | **34** exchanges |
 
 **Why it is worth your time.** Most trading repositories lead with a backtest curve. This one
 leads with a section called *What ARIA does not claim*, and the first thing it tells you is that
